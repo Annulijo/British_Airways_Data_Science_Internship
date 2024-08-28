@@ -1,4 +1,4 @@
-# British_Airways_Data_Science_Internship
+# BRITISH AIRWAYS DATA SCIENCE INTERNSHIP
 
 # Tools Used
 
